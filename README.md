@@ -28,4 +28,4 @@ warp-cli mode proxy
 warp-cli connect
 
 # Link to registration and 20% cashback discount on AEZA VPS registration💵 
-https://my-aeza.net/?ref=554977
+https://aeza.net/?ref=554977
